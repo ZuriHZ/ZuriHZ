@@ -1,19 +1,21 @@
+---
 <h1 align="center">
    ¡Bienvenido al Perfil de Code White!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
----
+
 
 ##  Sobre Mí
+<img align="right" alt="GIF" width="300" height="200" src="https://github.com/user-attachments/assets/e9eb04be-180b-4313-8579-c7258ab68bcb" />
 
-Soy un apasionado desarrollador [Tu rol o especialización aquí, ej: frontend, full-stack, etc.]. Me encanta explorar nuevas tecnologías y construir soluciones creativas para problemas complejos. Mi objetivo es crear experiencias web intuitivas y de alto rendimiento.
+Soy un apasionado desarrollador [frontend, full-stack, etc.]. Me encanta explorar nuevas tecnologías y construir soluciones creativas para problemas complejos. Mi objetivo es crear experiencias web intuitivas y de alto rendimiento.
 
 Mis intereses incluyen:
 
 * Desarrollo Web Moderno
-* [Interés 2]
-* [Interés 3]
+* Videojuegos
+* Deporte
 
 ---
 
@@ -56,14 +58,12 @@ Mis intereses incluyen:
   <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
 </div>
 
----
 
-<img align="right" alt="GIF" width="200" height="200" src="https://github.com/user-attachments/assets/e9eb04be-180b-4313-8579-c7258ab68bcb" />
 
----
+
 
 ##  Contáctame
 
-Si tienes alguna pregunta o propuesta, no dudes en contactarme a través de mis redes sociales o por correo electrónico a [tu correo electrónico].
+Si tienes alguna pregunta o propuesta, no dudes en contactarme a través de mis redes sociales o por correo electrónico a hassamzuriellg@gmail.com
 
 ---
