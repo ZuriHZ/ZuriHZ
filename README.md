@@ -53,17 +53,6 @@ Intereses ✅
 
 ---
 
-## 📊 Mis estadísticas en GitHub
-
-<a href="https://github.com/TU_USUARIO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/TU_USUARIO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark" alt="Top Langs" />
-</a>
-
----
-
 ## 📬 Conéctate conmigo
 
 <div align="center">
