@@ -52,11 +52,11 @@ Soy un desarrollador apasionado por el **ecosistema JavaScript**, especializado 
 
 <div align="center">
 
-|                    |                                                                                                |
-| ------------------ | ---------------------------------------------------------------------------------------------- |
-| **Kanban Project** | Una aplicación de gestión de tareas intuitiva y rápida, enfocada en la productividad personal. |
-| **TechView**       | Plataforma de análisis y visualización de tendencias tecnológicas.                             |
-| **Astro Porfolio** | Mi espacio personal construido con Astro para máxima velocidad y SEO.                          |
+| Proyecto                           | Descripción                                                                         |
+| ---------------------------------- | ----------------------------------------------------------------------------------- |
+| **SaaS de Entrevistas con IA**     | Plataforma que genera preguntas personalizadas con IA para preparar entrevistas.    |
+| **Generador de Depósitos a Excel** | Aplicación Full-Stack para gestión financiera con Supabase y personalización UI/UX. |
+| **Sistema de Autenticación**       | Sistema completo de autenticación con Firebase, roles y gestión en tiempo real.     |
 
 </div>
 
