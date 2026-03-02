@@ -1,103 +1,126 @@
-<!-- ==================== HEADER / BANNER ==================== -->
-<h1 align="center">
-  👋 Hola, soy <strong>ZURIHZ</strong>
-  <br/>
-  Desarrollador Frontend & Full Stack
-  <br/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="wave gif" />
-</h1>
+<div align="center">
+  
+# 👋 Hola, soy **ZURIHZ**
 
-<p align="center">
-  Construyo aplicaciones web modernas, escalables y con enfoque en rendimiento y experiencia de usuario.
-</p>
+### Desarrollador Frontend & Full Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Mi_Portafolio-FF0000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Mi Portafolio" />
-</p>
+Construyo aplicaciones web **modernas, escalables y de alto rendimiento** con enfoque en experiencia del usuario y arquitectura limpia.
 
 ---
 
-## 🧠 Sobre mí
+</div>
 
-<img align="right" alt="coding gif" width="300" height="200" src="https://github.com/user-attachments/assets/e9eb04be-180b-4313-8579-c7258ab68bcb" />
+## 🎯 Sobre mí
 
-Soy desarrollador enfocado en el ecosistema JavaScript moderno.  
-Trabajo creando soluciones reales, optimizadas y bien estructuradas.
+Soy desarrollador especializado en el ecosistema **JavaScript moderno**, con experiencia en la creación de soluciones reales, optimizadas y bien estructuradas.
 
-Me especializo en:
+#### 🔧 Mi enfoque principal:
 
-- ⚡ Interfaces rápidas y accesibles
-- 🧩 Arquitectura limpia y mantenible
-- 🔐 Sistemas con autenticación y backend moderno
-- 🚀 Deploy profesional y optimización de rendimiento
+| 🎨 | ⚡ Interfaces rápidas y accesibles |
+|---|---|
+| 🧩 | Arquitectura limpia y mantenible |
+| 🔐 | Sistemas con autenticación y backend moderno |
+| 🚀 | Deploy profesional y optimización de rendimiento |
 
-Intereses personales:
+#### 💡 Intereses personales:
 
-- 🏋️ Deporte  
-- 🎮 Videojuegos  
-- 🤖 Tecnología e IA  
+- 🏋️ Deporte y fitness
+- 🎮 Desarrollo de videojuegos
+- 🤖 Inteligencia Artificial y Machine Learning
 
 ---
 
-## 🚀 Stack Tecnológico
+## 🛠️ Stack Tecnológico
+
+### 💻 Frontend
 
 <div align="center">
 
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <br/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
-  <br/>
+</div>
 
-  <!-- Backend & Infra -->
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <br/>
+### ⚛️ Frameworks & Librerías
 
-  <!-- Package Managers -->
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
+<div align="center">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</div>
+
+### 🔧 Backend & Infraestructura
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+</div>
+
+### 📦 Herramientas & Package Managers
+
+<div align="center">
+
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 🌐 Conecta conmigo
+## 📊 Estadísticas
 
 <div align="center">
-  <a href="https://hassamdev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-FF0000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="https://x.com/zuri_hz" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/hassam-zuriel-lagos-garrido-785792316/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/zurizlh/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZuriHZ&theme=dark&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuriHZ&theme=dark&hide_border=true&layout=compact)
+
 </div>
 
 ---
 
-## 📩 Contacto
+## 🌐 Conéctate conmigo
 
-📧 **hassamzuriellg@gmail.com**
+<div align="center">
 
-Estoy abierto a oportunidades, colaboraciones y proyectos freelance.
+[![Portafolio](https://img.shields.io/badge/🌐_Portafolio-FF0000?style=for-the-badge&logo=vercel&logoColor=white)](https://hassamdev.vercel.app/)
+[![Twitter/X](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zuri_hz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassam-zuriel-lagos-garrido-785792316/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zurizlh/)
+
+</div>
 
 ---
 
-⭐ Gracias por visitar mi perfil.  
-Si algún proyecto te resulta interesante, no dudes en explorarlo.
+## 📧 Contacto
+
+<div align="center">
+
+**Email:** [hassamzuriellg@gmail.com](mailto:hassamzuriellg@gmail.com)
+
+Estoy abierto a oportunidades, colaboraciones y proyectos freelance. 💼
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Gracias por visitar mi perfil
+
+Si algún proyecto te resulta interesante, no dudes en explorarlo y contribuir.
+
+![Profile Views](https://komarev.com/ghpvc/?username=ZuriHZ&color=blueviolet)
+
+</div>
