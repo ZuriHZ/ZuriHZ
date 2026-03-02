@@ -12,7 +12,7 @@ Construyo aplicaciones web **modernas, escalables y de alto rendimiento** con en
 
 ## 🎯 Sobre mí
 
-<img align="right" alt="coding gif" width="300" height="200" src="https://github.com/user-attachments/assets/e9eb04be-180b-4313-8579-c7258ab68bcb" />
+<img align="right" alt="coding gif" width="300" height="200" loop src="https://github.com/user-attachments/assets/e9eb04be-180b-4313-8579-c7258ab68bcb" />
 
 Soy desarrollador especializado en el ecosistema **JavaScript moderno**, con experiencia en la creación de soluciones reales, optimizadas y bien estructuradas.
 
