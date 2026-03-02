@@ -11,10 +11,7 @@ Construyo aplicaciones web **modernas, escalables y de alto rendimiento** con en
 </div>
 
 ## 🎯 Sobre mí
-
-<div align="center">
-  <img alt="coding gif" width="350" height="250" src="[https://github.com/user-attachments/assets/Gato-Teclado.gif](https://github.com/ZuriHZ/ZuriHZ/raw/main/assets/Gato-Teclado.gif)" />
-</div>
+<img alt="coding gif" width="350" height="250" src="https://raw.githubusercontent.com/ZuriHZ/ZuriHZ/main/assets/gato.gif" />
 
 Soy desarrollador especializado en el ecosistema **JavaScript moderno**, con experiencia en la creación de soluciones reales, optimizadas y bien estructuradas.
 
