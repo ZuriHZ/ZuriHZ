@@ -4,7 +4,7 @@
 
 ## **Frontend & Full Stack Developer**
 
-![Banner](./images/banner.png)
+![Banner](./images/Zuribanner2.jpg)
 
 _Transformando ideas en experiencias digitales de alto rendimiento._
 
@@ -19,7 +19,7 @@ _Transformando ideas en experiencias digitales de alto rendimiento._
 
 ## 🚀 Sobre mí
 
-<img align="right" width="200" src="./Gato-Teclado.gif" alt="Coding Cat GIF" />
+<img align="right" width="200" src="https://raw.githubusercontent.com/ZuriHZ/ZuriHZ/main/Gato-Teclado.gif" alt="Coding Cat GIF" />
 
 Soy un desarrollador apasionado por el **ecosistema JavaScript**, especializado en crear aplicaciones web modernas, robustas y escalables. Me enfoco en escribir código limpio, mantenible y optimizado para el usuario final.
 
