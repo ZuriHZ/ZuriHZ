@@ -10,7 +10,7 @@ _Transformando ideas en experiencias digitales de alto rendimiento._
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassam-zuriel-lagos-garrido-785792316/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassam-lg-b999983a2/)
 [![Twitter/X](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zuri_hz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://hassamdev.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassamzuriellg@gmail.com)
@@ -82,7 +82,7 @@ Soy un desarrollador apasionado por el **ecosistema JavaScript**, especializado 
 ¿Tienes una idea en mente o buscas colaborar en algo increíble? ¡No dudes en contactarme!
 
 - 📩 **Email:** [hassamzuriellg@gmail.com](mailto:hassamzuriellg@gmail.com)
-- 💼 **LinkedIn:** [Hassam Lagos](https://www.linkedin.com/in/hassam-zuriel-lagos-garrido-785792316/)
+- 💼 **LinkedIn:** [Hassam Lagos](https://www.linkedin.com/in/hassam-lg-b999983a2/)
 
 <div align="center">
 
