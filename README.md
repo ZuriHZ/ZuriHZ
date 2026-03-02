@@ -1,88 +1,103 @@
 <!-- ==================== HEADER / BANNER ==================== -->
 <h1 align="center">
-  👋 Bienvenido al perfil de **ZURIHZ**
+  👋 Hola, soy <strong>ZURIHZ</strong>
   <br/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="coding gif" />
+  Desarrollador Frontend & Full Stack
+  <br/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="wave gif" />
 </h1>
 
-<p align="center">Desarrollador Front-end / Full-Stack apasionado por crear experiencias web intuitivas y potentes 💻</p>
+<p align="center">
+  Construyo aplicaciones web modernas, escalables y con enfoque en rendimiento y experiencia de usuario.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mi_Portafolio-FF0000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Mi Portafolio" />
+</p>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🧠 Sobre mí
 
-<img align="right" alt="GIF" width="300" height="200" src="https://github.com/user-attachments/assets/e9eb04be-180b-4313-8579-c7258ab68bcb" />
+<img align="right" alt="coding gif" width="300" height="200" src="https://github.com/user-attachments/assets/e9eb04be-180b-4313-8579-c7258ab68bcb" />
 
-Soy un desarrollador dedicado al desarrollo web moderno, siempre explorando nuevas tecnologías y construyendo soluciones creativas para problemas reales.  
-Me motiva crear interfaces eficientes, limpias y con buen rendimiento.  
+Soy desarrollador enfocado en el ecosistema JavaScript moderno.  
+Trabajo creando soluciones reales, optimizadas y bien estructuradas.
 
-Intereses ✅  
-- Desarrollo Web Moderno  
-- Videojuegos  
-- Deporte  
+Me especializo en:
+
+- ⚡ Interfaces rápidas y accesibles
+- 🧩 Arquitectura limpia y mantenible
+- 🔐 Sistemas con autenticación y backend moderno
+- 🚀 Deploy profesional y optimización de rendimiento
+
+Intereses personales:
+
+- 🏋️ Deporte  
+- 🎮 Videojuegos  
+- 🤖 Tecnología e IA  
 
 ---
 
-## 🔧 Mi Stack Tecnológico
+## 🚀 Stack Tecnológico
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <br />
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <br/>
 
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <br />
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
+  <br/>
 
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Astro-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
-  <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <br />
+  <!-- Backend & Infra -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <br/>
 
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-  <img src="https://img.shields.io/badge/pnpm-%23F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm" />
-  <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
-  <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <!-- Package Managers -->
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
 
 </div>
 
 ---
 
-## 📬 Conéctate conmigo
+## 🌐 Conecta conmigo
 
 <div align="center">
+  <a href="https://hassamdev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-FF0000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
+  </a>
   <a href="https://x.com/zuri_hz" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/hassam-zuriel-lagos-garrido-785792316/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/ZuriHLG" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/zurizlh/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/@ZuriHLG" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a>
-  <img src="😎" alt="Mi Portafolio" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
 ---
 
-## 📫 Contáctame
+## 📩 Contacto
 
-Si quieres hablar de un proyecto, colaboración o simplemente saludar —  
-📧 hassamzuriellg@gmail.com
+📧 **hassamzuriellg@gmail.com**
+
+Estoy abierto a oportunidades, colaboraciones y proyectos freelance.
 
 ---
 
-*Gracias por visitar mi perfil — ¡quedate, curiosea y sentite libre de dar una ⭐ si algo te gusta! 🌟*
+⭐ Gracias por visitar mi perfil.  
+Si algún proyecto te resulta interesante, no dudes en explorarlo.
