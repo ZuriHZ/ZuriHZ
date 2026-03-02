@@ -72,7 +72,7 @@ Intereses ✅
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a>
-  <img src="https://img.shields.io/badge/Mi_Portafolio-FF0000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Mi Portafolio" />
+  <img src="😎" alt="Mi Portafolio" />
   </a>
 </div>
 
